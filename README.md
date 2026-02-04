@@ -11,3 +11,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 # Daily Progress
 - Day 1: Variables in python
 - Day 2: Operators and If-Else (Learning + Practice)
+- Day 3: Loops practice
