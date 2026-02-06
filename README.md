@@ -13,3 +13,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 2: Operators and If-Else (Learning + Practice)
 - Day 3: Loops practice
 - Day 4: Functions learning + practice
+- Day 5: List and Tuple learning + practice
