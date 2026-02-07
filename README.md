@@ -14,3 +14,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 3: Loops practice
 - Day 4: Functions learning + practice
 - Day 5: List and Tuple learning + practice
+- Day 6: Learned Dictionary and Set with practice problems 
