@@ -1,0 +1,34 @@
+# ===== Data Collection & Preprocessing ===== 
+
+# Sample collected data
+  
+data = ["10", "20", "30", "NA", "40", "", "50"]
+
+print("Original Data:", data)
+
+# Remove missing values
+  
+clean_data = []
+for x in data:
+    if x != "NA" and x != "":
+        clean_data.append(int(x))
+
+print("Clean Data:", clean_data)
+
+# Basic preprocessing
+  
+print("Total Values:", len(clean_data))
+print("Maximum:", max(clean_data))
+print("Minimum:", min(clean_data))
+
+# Normalization (0 to 1)
+  
+norm = []
+mx = max(clean_data)
+
+for x in clean_data:
+    norm.append(x/mx)
+
+print("Normalized Data:", norm)
+
+print("\n--- Day 10 Learning End ---\n")
