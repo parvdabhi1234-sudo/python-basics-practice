@@ -19,3 +19,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 8: Learned JSON handling and OOP basics.(Learning + Practice)
 - Day 9: Completed OOP concepts with practice
 - Day 10: Data collection and preprocessing basics
+- Day 11: Practiced Numpy arrays, matrix operations and problem-solving
