@@ -9,14 +9,15 @@ B.tech CSE student learning AI/ML.
 To build strong AI/ML skills and become industry-ready for internships.
 
 # Daily Progress
-- Day 1: Variables in python
-- Day 2: Operators and If-Else (Learning + Practice)
-- Day 3: Loops practice
-- Day 4: Functions learning + practice
-- Day 5: List and Tuple learning + practice
-- Day 6: Learned Dictionary and Set with practice problems 
-- Day 7: Learned file handling with practice problems
-- Day 8: Learned JSON handling and OOP basics.(Learning + Practice)
-- Day 9: Completed OOP concepts with practice
-- Day 10: Data collection and preprocessing basics
-- Day 11: Practiced Numpy arrays, matrix operations and problem-solving
+- Day 1: Variables in python.
+- Day 2: Operators and If-Else (Learning + Practice).
+- Day 3: Loops practice.
+- Day 4: Functions learning + practice.
+- Day 5: List and Tuple learning + practice.
+- Day 6: Learned Dictionary and Set with practice problems. 
+- Day 7: Learned file handling with practice problems.
+- Day 8: Learned JSON handling and OOP basics.(Learning + Practice).
+- Day 9: Completed OOP concepts with practice.
+- Day 10: Data collection and preprocessing basics.
+- Day 11: Practiced Numpy arrays, matrix operations and problem-solving.
+- Day 12: Learned Pandas DataFrame operations, data cleaning, filtering, and handling missing values.
