@@ -21,3 +21,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 10: Data collection and preprocessing basics.
 - Day 11: Practiced Numpy arrays, matrix operations and problem-solving.
 - Day 12: Learned Pandas DataFrame operations, data cleaning, filtering, and handling missing values.
+- Day 13: Learned SQL basics including table creation, insertion, selection, update, delete, and counting records.
