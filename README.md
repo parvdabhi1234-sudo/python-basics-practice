@@ -23,3 +23,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 12: Learned Pandas DataFrame operations, data cleaning, filtering, and handling               missing values.
 - Day 13: Learned SQL basics including table creation, insertion, selection, update,                delete, and counting records.
 - Day 14: Learned Data Visualization using Matplotlib including line, bar, scatter, pie             charts, and histogram with interpretation.
+- Day 15: Learned probability basics, sample space, rules, and conditional probability               with practice.
