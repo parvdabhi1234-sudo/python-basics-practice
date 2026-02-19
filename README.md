@@ -25,3 +25,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 14: Learned Data Visualization using Matplotlib including line, bar, scatter, pie             charts, and histogram with interpretation.
 - Day 15: Learned probability basics, sample space, rules, and conditional probability               with practice.
 - Day 16: Covered Bayes theorem, random variables, mean, variance and standard deviation.
+- Day 17: Covered vectors, vector addition, dot product and matrix basics.
