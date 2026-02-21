@@ -27,3 +27,4 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 16: Covered Bayes theorem, random variables, mean, variance and standard deviation.
 - Day 17: Covered vectors, vector addition, dot product and matrix basics.
 - Day 18: Covered matrix multiplication, transpose, identity matrix and determinant.
+- Day 19: Covered functions and basic limits in calculus.
