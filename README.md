@@ -29,3 +29,16 @@ To build strong AI/ML skills and become industry-ready for internships.
 - Day 18: Covered matrix multiplication, transpose, identity matrix and determinant.
 - Day 19: Covered functions and basic limits in calculus.
 - Day 20: Covered derivatives, power rule, slope and optimization in calculus.
+
+## Learning Progress
+
+- Completed Python Basics
+- Practiced basic Python programs
+- Covered basic OOP concepts
+- Started learning AI/ML fundamentals
+- Day 20: Covered basic Calculus concepts for Machine Learning
+
+## Next Goal
+
+- Build a Job Market Analysis Project using Python
+- Start Machine Learning basics
